@@ -2,8 +2,18 @@
 A simple Streamlit application that converts plain English math problems into detailed, step-by-step solutions using **LangChain**, **Groq LLM**
 
 ---
+## Live App
 
-## 🚀 Features
+You can use the deployed version here:  
+**[Live App]()**
+
+### ▶️ How to Use the Live Streamlit App:
+1. Open the above link in your browser.
+2. On the left sidebar, enter your **GROQ API Key**.
+3. Ask your Question and click on solve.
+4. It will give the solution.
+---
+## Features
 - Convert any text-based math problem into a structured, point-wise solution  
 - Uses **ChatGroq** with **Llama-3.1-8B-Instant** (fast + accurate)  
 - Clean UI built with Streamlit  
@@ -20,7 +30,7 @@ A simple Streamlit application that converts plain English math problems into de
 
 ---
 
-## 🔑 Groq API Key
+##  Groq API Key
 This app uses the Groq API for running LLM model.
 ---
 ## ▶️ How to Run the App
