@@ -5,7 +5,7 @@ A simple Streamlit application that converts plain English math problems into de
 ## Live App
 
 You can use the deployed version here:  
-**[Live App]("https://text-to-math-problem-solver-sftcgwnwecl9qckp2l7fcy.streamlit.app/")**
+**[Live App](https://text-to-math-problem-solver-sftcgwnwecl9qckp2l7fcy.streamlit.app/)**
 
 ### ▶️ How to Use the Live Streamlit App:
 1. Open the above link in your browser.
